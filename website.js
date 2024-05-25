@@ -1,17 +1,17 @@
 $(document).ready(function () {
-    $.getJSON('files\8dSongs.json', function (data) {
+    $.getJSON('8dSongs.json', function (data) {
         songData(data,"songsHolder");
     });
-    $.getJSON('files/8dShorts.json', function (data) {
+    $.getJSON('8dShorts.json', function (data) {
         songData(data,"shortsHolder");
     });
-    $.getJSON('files/coding.json', function (data) {
+    $.getJSON('coding.json', function (data) {
         songData(data,"codingHolder");
     });
-    $.getJSON('files/gaming.json', function (data) {
+    $.getJSON('gaming.json', function (data) {
         songData(data,"gamesHolder");
     });
-    $.getJSON('files/playlists.json', function (data) {
+    $.getJSON('playlists.json', function (data) {
         songData(data,"playlistHolder");
     });
     $('#searchFilter').on('keyup',function(){
