@@ -1,0 +1,20 @@
+{
+    "Songs":[
+        {
+        "SongName":"Songs",
+        "iframe":"<iframe width='237' height='180' src='https://www.youtube.com/embed/videoseries?si=SYEicZMkh0YFhS9A&amp;list=PLPW3GWjJnMG9wLLqdLnokyTerXzws72P7' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+    },
+    {
+        "SongName":"Gaming",
+        "iframe":"<iframe width='237' height='180' src='https://www.youtube.com/embed/videoseries?si=PaGN9fze29O_exrP&amp;list=PLPW3GWjJnMG_mzAvysEsckvUDaLLNYnvx' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+    },
+    {
+        "SongName":"Coding",
+        "iframe":"<iframe width='237' height='180' src='https://www.youtube.com/embed/videoseries?si=wCTTFKJQ2zqL0o2B&amp;list=PLPW3GWjJnMG8fed9CROxS2nXpoubbyHEY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+    },
+    {
+        "SongName":"8d Shorts",
+        "iframe":"<iframe width='237' height='180' src='https://www.youtube.com/embed/videoseries?si=UGP_gZeOt1-JFhnq&amp;list=PLPW3GWjJnMG8uNaevWTyM-6_TYr2Hf1zR' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+    }
+]
+}
