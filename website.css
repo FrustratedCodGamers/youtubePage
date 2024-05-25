@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+
+ul li{
+    text-decoration: none;
+    font-weight: 400;
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+    position:relative;
+    top: 2%;
+    translate: 50% 0%;
+}
+ul li a{
+    color: rgb(249, 247, 247);
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 500;
+}
+#searchFilter{
+    display: inline-block;
+    position: absolute;
+    right: 3%;
+    top: 2%;
+    translate: 0% 50%;
+    border-color: aqua;
+    background-color: black;
+    border-radius: 5px;
+}
+input[type="text"]:focus{
+    border-color: aqua;
+    color: aqua;
+    outline: none;
+    box-shadow: 0 0 15px aqua;
+}
+.nav-anchors:hover{
+    box-shadow: 0 0 15px aqua;
+}
+.logo:hover{
+    filter: drop-shadow(0 0 2px aqua);
+    border-radius: 10%;    
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(63, 165, 247, 0.3); 
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(78, 166, 207, 0.5); 
+}
+td{
+    padding:10px;
+}
+.card:hover{
+    box-shadow: 0 0 15px aqua;
+}
