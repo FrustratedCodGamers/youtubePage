@@ -22,7 +22,7 @@ $(document).ready(function () {
     function filterSongs(songsList,filterValue){
         for (let i = 0; i < songsList.length; i++) {
             var songName = songsList[i].innerHTML ;
-            if(!songName.toLowerCase().includes(filterValue)){
+            if(!songName.toLowerCase().includes(filterValue.toLowerCase())){
             let parent = $(songsList[i]).parent();
             $(parent).parent().parent().hide();
             }
